@@ -41,9 +41,7 @@ Work is underway to MarathonBet and Ladbrokes in the near future.
 What is Arbitrage?
 ------------------
 
-
-
-
+Arbitrage bet in sports betting is an activity where you simultaneously place bets on all possible outcomes of an event at odds that guarantee profit, whatever the result of the event will be. A simple example of how this can be achieved is found [here](https://www.profitaccumulator.co.uk/what-is-arbing-or-arbitrage/).
 
 Getting a betfair API key
 -------------------------
