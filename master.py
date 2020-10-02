@@ -7,13 +7,13 @@ from betfair import bfairtools as btools
 from pandas import DataFrame
 from pinnacle import pinnaclexml as pin
 from datetime import date
-# import socket
-# import socks
-
 
 """
-def connectTor():
 ## Connect to Tor for privacy purposes
+import socket
+import socks
+ 
+def connectTor():
     socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, '127.0.0.1', 9150, True)
     socket.socket = socks.socksocket
     print("connected to Tor!")
